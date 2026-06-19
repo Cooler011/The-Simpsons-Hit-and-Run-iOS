@@ -1,11 +1,10 @@
-# D'oh!
+# Yay!!
 
-This is a port of The Simpsons Hit & Run to the Nintendo Switch and PS Vita based on the leaked source code. The full game should be playable, including local multiplayer in the bonus game. The port is however still incomplete, so some glitches can be observed and some visual effects are missing compared to the PC version.
-
-Please report any bugs or feature requests in the issues tab on this Github repository.
+Welp There you have it! the game is being ported to iOS (Finally)
 
 # Installation
 
+(IGNORE WILL BE UPDATED LATER)
 This port uses the PC assets, so you will need to have the PC version of the game installed. Do not use the assets from the source code leak as those are not the final version, instead use the assets from the official release. Also make sure you're using the original `.rmv` movie files in the `movies` folder rather than the converted `.bk2` files that older releases of the port required.
 
 To install the port simply copy the contents of the installation folder to `sdmc:/switch/simpsons` on the Switch or `ux0:/data/simpsons` on the Vita.
